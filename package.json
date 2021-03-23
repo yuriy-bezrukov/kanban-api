@@ -1,0 +1,15 @@
+{
+  "name": "kanban-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server"
+  },
+  "private": true,
+  "dependencies": {
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "md5": "latest"
+  }
+}
