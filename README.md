@@ -6,9 +6,9 @@
 
 
 <details>
-<summary> Cards localhost:3001/Card/</summary> 
+<summary>Cards</summary> 
 
-#### users  `localhost:3001/Card/`
+#### Card  `localhost:3001/Card/`
 
 ##### method: GET
 
@@ -76,7 +76,7 @@ response:
 ---
 
 <details>
-<summary> columns  localhost:3001/column/</summary> 
+<summary>Columns</summary> 
 
 ####  columns  `localhost:3001/column/`
 
@@ -142,7 +142,7 @@ response:
 ---
 
 <details>
-<summary> users  localhost:3001/user/</summary> 
+<summary>Users</summary> 
 
 ####  users  `localhost:3001/user/`
 
@@ -208,7 +208,7 @@ response:
 ---
 
 <details>
-<summary>Models</summary>
+<summary>Data Models</summary>
 
 #### User
 
